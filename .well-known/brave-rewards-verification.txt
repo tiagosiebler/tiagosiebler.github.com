@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: tiagosiebler.github.io
+Token: 5ee8c0e514edeacd636d76bd3fd4fdf647dd9381f6fe84caf82e56f4867d0e72
